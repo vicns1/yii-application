@@ -1,0 +1,9 @@
+.actor-toggler{
+     cursor: pointer;     
+}
+.actor-toggler:hover{
+    outline: 1px solid cyan;
+}
+.popover{
+ max-width: 100%;
+}
